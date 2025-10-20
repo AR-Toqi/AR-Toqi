@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **TailwindCss for web design**
+- 🌱 I’m currently learning **Advanced React.js**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **my team**
 
-- 💬 Ask me about **react, node, mongodb,**
+- 💬 Ask me about **javascript,react, node,**
 
 - 📫 How to reach me **toqiabdullah61990@gmail.com**
 
