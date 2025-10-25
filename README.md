@@ -20,7 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/toqi abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toqi abdullah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21941214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21941214" height="30" width="40" /></a>
+<a href="https://x.com/ar_toqi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_toqi" height="30" width="40" />
+</a>
 <a href="https://fb.com/ar toqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar toqi" height="30" width="40" /></a>
 <a href="https://instagram.com/ar toqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar toqi" height="30" width="40" /></a>
 </p>
