@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AR Toqi</h1>
-<h3 align="center">I’m a Frontend Developer who loves bringing ideas to life through clean, modern, and responsive web experiences. I work with React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS to build scalable and user-focused web applications.
+<p align="center">I’m a Frontend Developer who loves bringing ideas to life through clean, modern, and responsive web experiences. I work with React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS to build scalable and user-focused web applications.
 
-As a junior developer, I’m passionate about learning, improving, and writing maintainable, high-quality code that not only works well but also looks great. I enjoy collaborating with teams, solving real-world problems, and exploring new tools in the ever-evolving frontend ecosystem.✨ Always open to learning, collaborating, and exploring new opportunities in frontend development. </h3>
+As a junior developer, I’m passionate about learning, improving, and writing maintainable, high-quality code that not only works well but also looks great. I enjoy collaborating with teams, solving real-world problems, and exploring new tools in the ever-evolving frontend ecosystem.✨ Always open to learning, collaborating, and exploring new opportunities in frontend development. </p>
 
 - 🔭 I’m currently working on **VANLAIFE- A Van booking Web Application**
 
