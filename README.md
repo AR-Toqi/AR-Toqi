@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AR Toqi</h1>
-<p align="center">I’m a Frontend Developer who loves bringing ideas to life through clean, modern, and responsive web experiences. I work with React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS to build scalable and user-focused web applications.</p>
+<p align="center">I’m a Backend-Focused Full-Stack Developer specializing in building scalable, secure, and production-ready web applications. I focus on designing efficient backend systems and APIs while ensuring seamless integration with modern frontend interfaces. </p>
 
-<p align="center">As a junior developer, I’m passionate about learning, improving, and writing maintainable, high-quality code that not only works well but also looks great. I enjoy collaborating with teams, solving real-world problems, and exploring new tools in the ever-evolving frontend ecosystem.✨ Always open to learning, collaborating, and exploring new opportunities in frontend development. </p>
+<p align="center">As a junior developer, I’m passionate about learning, improving, and writing maintainable, high-quality code that not only works well but also looks great. I enjoy collaborating with teams, solving real-world problems, and exploring new tools in the ever-evolving frontend ecosystem.Beyond traditional web development, I’m also deeply interested in AI and Machine Learning, continuously learning how intelligent systems can be integrated into modern applications.  </p>
 
 - 🔭 I’m currently working on **Green Bangladesh**
 
