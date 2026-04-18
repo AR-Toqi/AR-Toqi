@@ -1,31 +1,117 @@
-<h1 align="center">Hi 👋, I'm AR Toqi</h1>
-<p align="center">I’m a Backend-Focused Full-Stack Developer specializing in building scalable, secure, and production-ready web applications. I focus on designing efficient backend systems and APIs while ensuring seamless integration with modern frontend interfaces. </p>
+# Hi 👋, I'm AR Toqi
 
-<p align="center">As a junior developer, I’m passionate about learning, improving, and writing maintainable, high-quality code that not only works well but also looks great. I enjoy collaborating with teams, solving real-world problems, and exploring new tools in the ever-evolving frontend ecosystem.Beyond traditional web development, I’m also deeply interested in AI and Machine Learning, continuously learning how intelligent systems can be integrated into modern applications.  </p>
-
-- 🔭 I’m currently working on **Green Bangladesh**
-
-- 🌱 I’m currently learning **Database Design and Backend Architecture**
-
-- 👯 I’m looking to collaborate on **Cloud native projects**
-
-- 💡I would like to explore new technologies and **Develop Software Solutions and Quick Hacks**
-
-- 💬 Ask me about **javascript,react, node,**
-
-- 📫 How to reach me **toqiabdullah61990@gmail.com**
-
-- ⚡ Fun fact **anime lover**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/toqi abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toqi abdullah" height="30" width="40" /></a>
-<a href="https://x.com/ar_toqi" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_toqi" height="30" width="40" />
-</a>
-<a href="https://fb.com/ar toqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar toqi" height="30" width="40" /></a>
-<a href="https://instagram.com/ar toqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar toqi" height="30" width="40" /></a>
+<p align="center">
+  <b>Backend-Focused Full-Stack Developer</b><br/>
+  Helping startups & SaaS companies build scalable, high-performance web applications
 </p>
 
-<h3 align="left">🛠  Tech Stack</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AR-Toqi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a Backend-Focused Full-Stack Developer who prioritizes clean, testable, and maintainable code.
+
+I specialize in system design, authentication, API development, and performance optimization — building scalable applications that align with real business goals.
+
+Beyond traditional development, I actively explore AI and Machine Learning, learning how to integrate intelligent systems into modern applications.
+
+I’m currently open to opportunities where I can contribute to impactful products, grow as an engineer, and deliver value through strong backend architecture.
+
+---
+
+## 💡 What I Bring
+
+- Backend-first thinking (scalability, performance, security)
+- Clean architecture & maintainable code
+- Real-world problem solving (not just demo projects)
+- Fast development using modern AI tools
+- Production-ready system design
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/toqi abdullah" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://x.com/ar_toqi" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+<a href="https://fb.com/ar toqi" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
+<a href="https://instagram.com/ar toqi" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Core Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,react,nextjs,js,ts,git" />
+</p>
+
+### 🧰 Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=prisma,postman,github" />
+</p>
+
+### 🤖 AI Tools I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+---
+
+## 🌍 Featured Project
+
+### 🌱 Green Bangladesh
+
+> A data-driven environmental visualization platform highlighting tree density across Bangladesh.
+
+🚀 **Live:** https://green-bangladesh-client.vercel.app  
+
+### ✨ Highlights:
+- Interactive data visualization  
+- District-wise environmental insights  
+- Real-world impact & awareness  
+- Built with modern full-stack technologies  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AR-Toqi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AR-Toqi&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Toqi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Reach Me
+📧 **toqiabdullah61990@gmail.com**
+
+---
+
+⭐ *Building scalable systems. Solving real problems. Exploring AI.*
