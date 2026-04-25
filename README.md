@@ -61,7 +61,7 @@ I’m currently open to opportunities where I can contribute to impactful produc
 
 ### 🧰 Backend & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=prisma,postman,github" />
+<img src="https://skillicons.dev/icons?i=prisma,postman,github,docker" />
 </p>
 
 ### 🤖 AI Tools I Use
