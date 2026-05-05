@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a Backend-Focused Full-Stack Developer who prioritizes clean, testable, and maintainable code.
 
@@ -54,7 +54,7 @@ I’m currently open to opportunities where I can contribute to impactful produc
 
 ## 🛠 Tech Stack
 
-### 🚀 Core Stack
+### Core Stack
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,react,nextjs,js,ts,git" />
 </p>
