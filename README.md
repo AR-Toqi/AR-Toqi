@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dvo6d55al/image/upload/v1778066076/Github_bannner_1_kiztrq.webp" alt="AR Toqi Banner" width="100%" />
+</p>
+
 # Hi 👋, I'm AR Toqi
 
 <p align="center">
@@ -13,13 +17,15 @@
 
 ## About Me
 
-I’m a Backend-Focused Full-Stack Developer who prioritizes clean, testable, and maintainable code.
+I’m a Full-Stack Developer passionate about building scalable, high-performance web applications that solve real business problems.
 
-I specialize in system design, authentication, API development, and performance optimization — building scalable applications that align with real business goals.
+My primary focus is backend engineering, designing secure APIs, scalable architectures, authentication systems, and optimized databases — while also creating seamless frontend experiences with modern technologies.
 
-Beyond traditional development, I actively explore AI and Machine Learning, learning how to integrate intelligent systems into modern applications.
+I enjoy turning complex ideas into clean, maintainable, and production-ready systems. Beyond traditional development, I’m actively exploring AI engineering, RAG systems, vector databases, and agentic workflows to understand how intelligent systems can shape the future of web applications.
 
-I’m currently open to opportunities where I can contribute to impactful products, grow as an engineer, and deliver value through strong backend architecture.
+I believe great software is not just about writing code — it’s about building reliable products that create real impact for users and businesses.
+
+Currently, I’m looking for opportunities where I can contribute to meaningful products, collaborate with strong teams, and continue growing as a software engineer.
 
 ---
 
@@ -33,6 +39,17 @@ I’m currently open to opportunities where I can contribute to impactful produc
 
 ---
 
+## 🌱 Currently Learning
+
+- Backend Architecture
+- AI Integration  
+- RAG (Retrieval-Augmented Generation)  
+- Vector Databases  
+- Vector Embeddings  
+- Agentic Workflows  
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -43,7 +60,7 @@ I’m currently open to opportunities where I can contribute to impactful produc
 <img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 <a href="https://fb.com/ar toqi" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
 </a>
 <a href="https://instagram.com/ar toqi" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
@@ -56,7 +73,7 @@ I’m currently open to opportunities where I can contribute to impactful produc
 
 ### Core Stack
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,react,nextjs,js,ts,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,js,ts,figma,git" />
 </p>
 
 ### 🧰 Backend & Tools
