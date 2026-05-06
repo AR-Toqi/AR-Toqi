@@ -76,12 +76,20 @@ Portfolio: [personal-portfolio-eight-weld-97.vercel.app](https://personal-portfo
 
 ### Core Stack
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,js,ts,figma,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,js,ts,figma,git" />
+  
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 </p>
 
 ### 🧰 Backend & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=prisma,postman,github,docker" />
+<img src="https://skillicons.dev/icons?i=prisma,postman,github,docker,jwt" />
+</p>
+
+### ☁️ Hosting & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,supabase" />
 </p>
 
 ### 🤖 AI Tools I Use
@@ -93,6 +101,15 @@ Portfolio: [personal-portfolio-eight-weld-97.vercel.app](https://personal-portfo
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### 🧩 Productivity & Collaboration Tools
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Lucidchart-F36D21?style=for-the-badge&logo=lucidchart&logoColor=white" />
 </p>
 
 ---
