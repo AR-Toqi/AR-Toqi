@@ -23,9 +23,12 @@ My primary focus is backend engineering, designing secure APIs, scalable archite
 
 I enjoy turning complex ideas into clean, maintainable, and production-ready systems. Beyond traditional development, I’m actively exploring AI engineering, RAG systems, vector databases, and agentic workflows to understand how intelligent systems can shape the future of web applications.
 
-I believe great software is not just about writing code — it’s about building reliable products that create real impact for users and businesses.
+I believe great software is not just about writing code. It’s about building reliable products that create real impact for users and businesses.
 
 Currently, I’m looking for opportunities where I can contribute to meaningful products, collaborate with strong teams, and continue growing as a software engineer.
+
+🌐 **Want to know more about me?**  
+Portfolio: [personal-portfolio-eight-weld-97.vercel.app](https://personal-portfolio-eight-weld-97.vercel.app/)
 
 ---
 
