@@ -56,7 +56,7 @@ Portfolio: [personal-portfolio-eight-weld-97.vercel.app](https://personal-portfo
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/toqi abdullah" target="blank">
+<a href="https://www.linkedin.com/in/abdullah-ragib-toqi/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://x.com/ar_toqi" target="_blank">
